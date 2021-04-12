@@ -51,12 +51,38 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/section-1\/hero.jpg" : {
+    "\/deploy\/img\/section-1\/hero.png" : {
+      "ft" : 32768,
+      "iS" : 2179544,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-1\/hero.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/hero 3.jpg" : {
       "ft" : 16384,
-      "iS" : 337746,
+      "iS" : 254097,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-1\/hero.jpg",
+      "oAP" : "\/deploy\/img\/section-2\/hero 3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/hero small 2.jpg" : {
+      "ft" : 16384,
+      "iS" : 347481,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/hero small 2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -72,7 +98,7 @@
       "oAP" : "\/deploy\/img\/section-2\/hero small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -481,7 +507,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "Coffee Roaster",
+    "displayValue" : "Coffee-Roaster",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
