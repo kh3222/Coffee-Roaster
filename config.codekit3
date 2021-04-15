@@ -64,41 +64,41 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-2\/hero 3.jpg" : {
-      "ft" : 16384,
-      "iS" : 254097,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-2\/hero 3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/section-2\/hero small 2.jpg" : {
-      "ft" : 16384,
-      "iS" : 347481,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-2\/hero small 2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/section-2\/hero small.jpg" : {
+    "\/deploy\/img\/section-2\/hero-small-2.jpg" : {
       "ft" : 16384,
       "iS" : 15971,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-2\/hero small.jpg",
+      "oAP" : "\/deploy\/img\/section-2\/hero-small-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/hero-small.jpg" : {
+      "ft" : 16384,
+      "iS" : 347481,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/hero-small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/hero3.jpg" : {
+      "ft" : 16384,
+      "iS" : 254097,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/hero3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -226,20 +226,36 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/structure-tags.sketch" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/design\/structure-tags.sketch",
-      "oF" : 0
-    },
-    "\/dev\/footer.kit" : {
+    "\/dev\/content\/collection.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/footer.html",
+      "oAP" : "\/dev\/content\/collection.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/gallery.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/gallery.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -250,20 +266,20 @@
       "oAP" : "\/dev\/global\/head.html",
       "oF" : 0
     },
+    "\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/global\/header.html",
+      "oF" : 0
+    },
     "\/dev\/global\/scripts.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/dev\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/header.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -438,30 +454,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/section-1.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-1.html",
-      "oF" : 0
-    },
-    "\/dev\/section-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-2.html",
-      "oF" : 0
-    },
-    "\/dev\/section-3.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-3.html",
-      "oF" : 0
     },
     "\/README.md" : {
       "cB" : 0,
