@@ -103,6 +103,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/section-3\/coffee-grinder.png" : {
+      "ft" : 32768,
+      "iS" : 21277,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/coffee-grinder.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-3\/laptop.png" : {
+      "ft" : 32768,
+      "iS" : 20953,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/laptop.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/section-3\/new cell.jpg" : {
       "ft" : 16384,
       "iS" : 112250,
@@ -116,6 +142,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/section-4\/burundi.png" : {
+      "ft" : 32768,
+      "iS" : 129355,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-4\/burundi.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-4\/colombia.png" : {
+      "ft" : 32768,
+      "iS" : 132609,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-4\/colombia.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-4\/ecuador.png" : {
+      "ft" : 32768,
+      "iS" : 118520,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-4\/ecuador.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/section-4\/Hero 2.jpg" : {
       "ft" : 16384,
       "iS" : 189024,
@@ -125,6 +190,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-4\/peru.png" : {
+      "ft" : 32768,
+      "iS" : 99783,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-4\/peru.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-4\/Spring.png" : {
+      "ft" : 32768,
+      "iS" : 114672,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-4\/Spring.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
