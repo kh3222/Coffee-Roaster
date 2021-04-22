@@ -16,16 +16,47 @@
 
     <link rel="stylesheet" href="css/styles.css">
     <title>Web 2 In Class</title>
+
+
+
+
+<style>
+
+
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(2, 50px);
+        grid-gap: 4px;
+
+    }
+
+    .header {
+        grid-column-start:1;
+        grid-column-end: 3;
+    }
+
+
+
+</style>
+
+
+
+
+
+
 </head>
 
 
 <body>
-
+    <div class="header">
     <header>
         <section>
             <h1>BEAN EMPORIUM COFFEE ROASTERS</h1>
         </section>
     </header>
+    </div>
 
     <section>
         <form action="POST">
