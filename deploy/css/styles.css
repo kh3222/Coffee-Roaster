@@ -356,6 +356,31 @@ body {
   font-family: "Oswald", sans-serif;
 }
 
+uhhhh uerhgviudhfugbhne dfc .container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(2, 50px);
+  grid-gap: 4px;
+}
+
+.header {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.header {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+ul {
+  margin: 0;
+  padding: 20px;
+}
+ul li {
+  list-style: none;
+}
+
 /* =============
     Typography
 ============= */
