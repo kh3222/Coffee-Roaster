@@ -414,3 +414,16 @@ textarea {
 /* =============
     Footer
 ============= */
+/* =============
+    HERO
+============= */
+#hero img {
+  max-width: 100%;
+}
+
+/* =============
+    COLLECTION
+============= */
+#collection .center-text {
+  text-align: center;
+}
