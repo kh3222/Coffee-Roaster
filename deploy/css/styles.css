@@ -524,9 +524,22 @@ footer > div #social-media ul {
   display: none;
 }
 
-/* =============
-    COLLECTION
-============= */
-#collection .center-text {
-  text-align: center;
+#collection > div ul {
+  display: grid;
+  gap: 16px;
+}
+#collection > div ul #new-Colombia > div {
+  background-image: url("../img/section-4/colombia.png");
+}
+#collection > div ul #new-Ecuador > div {
+  background-image: url("../img/section-4/ecuador.png");
+}
+#collection > div ul #new-burundi > div {
+  background-image: url("../img/section-4/burundi.png");
+}
+#collection > div ul #new-peru > div {
+  background-image: url("../img/section-4/peru.png");
+}
+#collection > div ul #new-spring > div {
+  background-image: url("../img/section-4/Spring.png");
 }

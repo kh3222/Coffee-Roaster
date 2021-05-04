@@ -1,12 +1,46 @@
-/* =============
-    COLLECTION
-============= */
-
-
-
 
 #collection {
-    .center-text {
-        text-align: center;
-    }
+
+	>div {
+
+
+		ul {
+			display: grid;
+			gap: 16px;
+			
+			li {
+
+			}
+			#new-Colombia {
+			
+				>div {
+					background-image: url("../img/section-4/colombia.png");
+				}
+			}
+			#new-Ecuador {
+				
+				>div {
+					background-image: url("../img/section-4/ecuador.png");
+				}
+			}
+			#new-burundi {
+				
+				>div {
+					background-image: url("../img/section-4/burundi.png");
+				}
+			}
+			#new-peru {
+				
+				>div {
+					background-image: url("../img/section-4/peru.png");
+				}
+			}
+			#new-spring {
+				
+				>div {
+					background-image: url("../img/section-4/Spring.png");
+				}
+			}
+		}
+	}
 }
