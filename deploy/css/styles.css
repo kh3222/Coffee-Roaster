@@ -445,6 +445,55 @@ header > div section img {
 /* =============
     Footer
 ============= */
+@media (min-width: 1200px) {
+  footer {
+    display: grid;
+    grid-template-areas: ". footer .";
+    grid-template-columns: auto 1200px auto;
+  }
+}
+footer > div {
+  display: grid;
+  gap: 24px;
+}
+@media (min-width: 768px) {
+  footer > div {
+    grid-template-areas: "location email" "location social-media";
+    grid-template-columns: 50% auto;
+  }
+}
+@media (min-width: 1024px) {
+  footer > div {
+    grid-template-areas: "location email social-media";
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 1200px) {
+  footer > div {
+    grid-area: footer;
+  }
+}
+@media (min-width: 768px) {
+  footer > div #location {
+    grid-area: locations;
+  }
+}
+@media (min-width: 768px) {
+  footer > div #email {
+    grid-area: email;
+  }
+}
+footer > div #email form input {
+  border: none;
+}
+@media (min-width: 768px) {
+  footer > div #social-media {
+    grid-area: social-media;
+  }
+}
+footer > div #social-media ul {
+  border: none;
+}
 /* =============
     HEADER
 ============= */
@@ -480,4 +529,57 @@ header > div section img {
 ============= */
 #collection .center-text {
   text-align: center;
+}
+
+/* =============
+    Footer
+============= */
+@media (min-width: 1200px) {
+  footer {
+    display: grid;
+    grid-template-areas: ". footer .";
+    grid-template-columns: auto 1200px auto;
+  }
+}
+footer > div {
+  display: grid;
+  gap: 24px;
+}
+@media (min-width: 768px) {
+  footer > div {
+    grid-template-areas: "location email" "location social-media";
+    grid-template-columns: 50% auto;
+  }
+}
+@media (min-width: 1024px) {
+  footer > div {
+    grid-template-areas: "location email social-media";
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 1200px) {
+  footer > div {
+    grid-area: footer;
+  }
+}
+@media (min-width: 768px) {
+  footer > div #location {
+    grid-area: locations;
+  }
+}
+@media (min-width: 768px) {
+  footer > div #email {
+    grid-area: email;
+  }
+}
+footer > div #email form input {
+  border: none;
+}
+@media (min-width: 768px) {
+  footer > div #social-media {
+    grid-area: social-media;
+  }
+}
+footer > div #social-media ul {
+  border: none;
 }
