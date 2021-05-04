@@ -412,13 +412,67 @@ textarea {
     Header
 ============= */
 /* =============
+    Header
+============= */
+header {
+  display: grid;
+}
+@media (min-width: 1200px) {
+  header {
+    grid-template-areas: ". header .";
+    grid-template-columns: auto 1200px auto;
+  }
+}
+@media (min-width: 1200px) {
+  header > div {
+    grid-area: header;
+  }
+}
+header > div section img {
+  width: 96px;
+}
+@media (min-width: 768px) {
+  header > div section img {
+    width: 123px;
+  }
+}
+@media (min-width: 1024px) {
+  header > div section img {
+    width: 150px;
+  }
+}
+
+/* =============
     Footer
 ============= */
 /* =============
-    HERO
+    HEADER
 ============= */
-#hero img {
-  max-width: 100%;
+/* =============
+    Heading
+============= */
+#heading > div img {
+  display: block;
+  width: 100%;
+}
+
+/* =============
+    Hero
+============= */
+#hero > div ul li {
+  background-position: center;
+  background-size: cover;
+  height: 320px;
+}
+#hero > div ul #hero-2-1 {
+  background-image: url("../img/hero-2/hero-2-1.jpg");
+}
+#hero > div ul #hero-2-2 {
+  background-image: url("../img/hero-2/hero-2-2.jpg");
+}
+#hero > div ul #hero-2-3 {
+  background-image: url("../img/hero-2/hero-2-3.jpg");
+  display: none;
 }
 
 /* =============
