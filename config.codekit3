@@ -51,15 +51,28 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/section-1\/hero.png" : {
+    "\/deploy\/img\/hero\/hero.png" : {
       "ft" : 32768,
       "iS" : 2179544,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-1\/hero.png",
+      "oAP" : "\/deploy\/img\/hero\/hero.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/hero-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 254097,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/hero-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -83,19 +96,6 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/section-2\/hero-small.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/section-2\/hero3.jpg" : {
-      "ft" : 16384,
-      "iS" : 254097,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-2\/hero3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -546,6 +546,20 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/sections\/_gallery.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_gallery.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/sections\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -560,7 +574,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_heading.scss" : {
+    "\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -568,13 +582,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_heading.css",
+      "oAP" : "\/dev\/scss\/sections\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_hero-2.scss" : {
+    "\/dev\/scss\/sections\/_search.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -582,7 +596,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero-2.css",
+      "oAP" : "\/dev\/scss\/sections\/_search.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -601,14 +615,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/index.html",
-      "oF" : 0
     },
     "\/README.md" : {
       "cB" : 0,

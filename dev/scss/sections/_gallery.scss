@@ -1,0 +1,47 @@
+/* =============
+    gallery
+============= */
+
+
+
+#gallery {
+
+
+	>div {
+
+
+		ul {
+			
+
+			li {
+				background-position: center;
+				background-size: cover;
+				height: 320px;
+
+				
+			}
+
+			#gallery1 {
+				background-image: url("../img/section-2/hero-3.jpg");
+
+				
+			}
+
+			#gallery2 {
+				background-image: url("../img/section-2/hero-small-2.jpg");
+
+				
+			}
+
+			#gallery3 {
+				background-image: url("../img/section-2/hero-small.jpg");
+				display: none;
+
+				
+			}
+		}
+	}
+}
+
+
+

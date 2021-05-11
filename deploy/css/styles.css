@@ -500,46 +500,30 @@ footer > div #social-media ul {
 /* =============
     Heading
 ============= */
-#heading > div img {
+#hero > div img {
   display: block;
   width: 100%;
 }
 
 /* =============
-    Hero
+    gallery
 ============= */
-#hero > div ul li {
+#gallery > div ul li {
   background-position: center;
   background-size: cover;
   height: 320px;
 }
-#hero > div ul #hero-2-1 {
-  background-image: url("../img/hero-2/hero-2-1.jpg");
+#gallery > div ul #gallery1 {
+  background-image: url("../img/section-2/hero-3.jpg");
 }
-#hero > div ul #hero-2-2 {
-  background-image: url("../img/hero-2/hero-2-2.jpg");
+#gallery > div ul #gallery2 {
+  background-image: url("../img/section-2/hero-small-2.jpg");
 }
-#hero > div ul #hero-2-3 {
-  background-image: url("../img/hero-2/hero-2-3.jpg");
+#gallery > div ul #gallery3 {
+  background-image: url("../img/section-2/hero-small.jpg");
   display: none;
 }
 
-#collection > div ul {
-  display: grid;
-  gap: 16px;
-}
-#collection > div ul #new-Colombia > div {
-  background-image: url("../img/section-4/colombia.png");
-}
-#collection > div ul #new-Ecuador > div {
-  background-image: url("../img/section-4/ecuador.png");
-}
-#collection > div ul #new-burundi > div {
-  background-image: url("../img/section-4/burundi.png");
-}
-#collection > div ul #new-peru > div {
-  background-image: url("../img/section-4/peru.png");
-}
-#collection > div ul #new-spring > div {
-  background-image: url("../img/section-4/Spring.png");
+h1 {
+  color: orange;
 }

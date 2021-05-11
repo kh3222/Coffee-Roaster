@@ -1,0 +1,12 @@
+/* =============
+    Search
+============= */
+#search {
+	display: grid;
+	grid-template-areas: ". search .";
+	grid-template-columns: 16px auto 16px;
+
+	>div {
+		grid-area: search;
+	}
+}
