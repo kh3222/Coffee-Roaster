@@ -4,6 +4,28 @@
 
 footer {
 
+	#philly {
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		color: #EBD7B2;
+		font-size: large;
+	}
+
+	#address {
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		color: #EBD7B2;
+	}
+
+	#phone {	
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		color: #EBD7B2;
+	}
+
+	background-color: #886948;
+
+	#footer-headers {
+		color: #EBD7B2;
+	}
+
 	@include xl {
 		display: grid;
 		grid-template-areas: ". footer .";
@@ -52,6 +74,7 @@ footer {
 		#social-media {
 			@include md {
 				grid-area: social-media;
+				color: #EBD7B2;
 			}
 
 

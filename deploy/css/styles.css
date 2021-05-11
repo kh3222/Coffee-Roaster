@@ -445,6 +445,25 @@ header > div section img {
 /* =============
     Footer
 ============= */
+footer {
+  background-color: #886948;
+}
+footer #philly {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #EBD7B2;
+  font-size: large;
+}
+footer #address {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #EBD7B2;
+}
+footer #phone {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #EBD7B2;
+}
+footer #footer-headers {
+  color: #EBD7B2;
+}
 @media (min-width: 1200px) {
   footer {
     display: grid;
@@ -489,6 +508,7 @@ footer > div #email form input {
 @media (min-width: 768px) {
   footer > div #social-media {
     grid-area: social-media;
+    color: #EBD7B2;
   }
 }
 footer > div #social-media ul {
@@ -525,12 +545,16 @@ footer > div #social-media ul {
 }
 
 h1 {
-  color: orange;
+  color: #886948;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
 }
 
 #button {
   margin: 25px;
-  color: orange;
+  color: white;
+  background-color: #E08E5F;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #collection-img {
@@ -538,5 +562,41 @@ h1 {
 }
 
 p {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #886948;
+}
+
+#new-Colombia {
+  background-color: #EBD7B2;
+  width: fit-content;
+  margin: 40px;
+  padding: 20px;
+}
+
+#new-Ecuador {
+  background-color: #EBD7B2;
+  width: fit-content;
+  margin: 40px;
+  padding: 20px;
+}
+
+#new-burundi {
+  background-color: #EBD7B2;
+  width: fit-content;
+  margin: 40px;
+  padding: 20px;
+}
+
+#new-peru {
+  background-color: #EBD7B2;
+  width: fit-content;
+  margin: 40px;
+  padding: 20px;
+}
+
+#new-spring {
+  background-color: #EBD7B2;
+  width: fit-content;
+  margin: 40px;
+  padding: 20px;
 }
