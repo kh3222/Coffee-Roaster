@@ -527,3 +527,15 @@ footer > div #social-media ul {
 h1 {
   color: orange;
 }
+
+#button {
+  margin: 25px;
+}
+
+#collection-img {
+  margin: 25px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}

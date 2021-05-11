@@ -1,0 +1,42 @@
+intro 
+
+
+
+
+#intro {
+
+	>div {
+
+		ul {
+			display: grid;
+			gap: 16px;
+
+			li {
+
+
+				// aside {
+				// 	margin-left: auto;
+				// 	div {
+				// 		background-position: center;
+				// 		background-size: cover;
+				// 		border: 4px $white solid;
+				// 		border-radius: 100%;
+				// 		height: 85px;
+				// 		width: 85px;
+
+				// 		@include md{
+				// 			height: 113px;
+				// 			width: 113px;
+				// 		}
+				// 	}
+				// 	#new {
+				// 		background-image: url("../img/section-3/coffee-grinder.png");
+				// 	}
+				// 	#help {
+				// 		background-image: url("../img/section-3/laptop.png");
+				// 	}
+				// }
+			}
+		}
+	}
+}
